@@ -3,6 +3,8 @@
   
 MERN Application
 
+Kindly check word document for full detail
+
 # 1. Project Overview
 
 Explain Travel Memory app.
