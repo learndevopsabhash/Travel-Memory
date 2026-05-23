@@ -9,6 +9,8 @@ Kindly check word document for full detail
 
 Explain Travel Memory app.
 
+The Travel Memory application has been developed using the MERN stack. Your challenge is to deploy this application on an Amazon EC2 instance. This will provide you with hands-on experience in deploying full-stack applications, working with cloud platforms, and ensuring scalable architecture.
+
 # 2. Architecture
 
 <img width="260" height="648" alt="image" src="https://github.com/user-attachments/assets/4643fd43-9ffa-432d-9a23-d12b3a61c3e4" />
