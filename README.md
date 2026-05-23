@@ -24,7 +24,6 @@ MongoDB
 nginx
 AWS EC2
 ALB
-Auto Scaling
 Cloudflare
 
 # 4. Deployment Steps
@@ -32,7 +31,6 @@ Cloudflare
 Frontend deployment.
 Backend deployment.
 ALB.
-ASG.
 Cloudflare.
 
 # 5. Screenshots
@@ -43,7 +41,6 @@ nginx
 PM2
 ALB
 Target groups
-ASG
 Cloudflare
 Application UI
 
