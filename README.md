@@ -49,5 +49,6 @@ is on word document
 # 6. Application URL
 
 Your Cloudflare domain.
+https://abhash.info
 https://abhash.info/addexperience
     
